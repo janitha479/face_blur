@@ -15,12 +15,14 @@ A Python application that provides a user-friendly interface for detecting and b
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](Screenshot%20(10).png)
-*Main application window showing the dark theme interface with image preview*
+
+![Main Interface](<Screenshot%20(10).png>)
+_Main application window showing the dark theme interface with image preview_
 
 ### Batch Processing
-![Batch Processing](Screenshot%20(11).png)
-*Batch processing interface with multiple images loaded*
+
+![Batch Processing](<Screenshot%20(11).png>)
+_Batch processing interface with multiple images loaded_
 
 ## 🔧 Requirements
 
@@ -94,7 +96,7 @@ Pillow
 
 When saving processed images, the application automatically:
 
-- Adds "_blurred" suffix to the original filename
+- Adds "\_blurred" suffix to the original filename
 - Preserves the original file extension
 - Example: `image.jpg` → `image_blurred.jpg`
 
@@ -113,4 +115,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
